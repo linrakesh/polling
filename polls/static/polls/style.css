@@ -1,0 +1,6 @@
+body{padding:0;margin: 0;font-size:100%;line-height:120%;overflow-x:hidden;background:#999;}
+h1{font-size:220%;}
+li{padding:5px 0px;}
+a{text-decoration: none;}
+.container{width:1200px;max-width:100%;padding:0;margin:0 auto;background:#fff;text-align: center;}
+.container h1{padding:20px 0px;text-align: center;}
